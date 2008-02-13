@@ -24,4 +24,4 @@ end tell
 tell application "iSync"
 	synchronize
 end tell
-}}
+}}}
