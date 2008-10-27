@@ -1,0 +1,170 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 2E7E958C0EB603A2006005C0 /* Proximity */;
+		activeTarget = 8D1107260486CEB800E47090 /* Proximity */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Proximity */,
+		);
+		codeSenseManager = 2E7E95A20EB603BA006005C0 /* Code sense */;
+		executables = (
+			2E7E958C0EB603A2006005C0 /* Proximity */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 246812667;
+			PBXWorkspaceStateSaveDate = 246812667;
+		};
+		perUserProjectItems = {
+			2E7E961A0EB60CE1006005C0 /* PlistBookmark */ = 2E7E961A0EB60CE1006005C0 /* PlistBookmark */;
+			2E7E961B0EB60CE1006005C0 /* PBXTextBookmark */ = 2E7E961B0EB60CE1006005C0 /* PBXTextBookmark */;
+			2E7E961D0EB60CE1006005C0 /* PlistBookmark */ = 2E7E961D0EB60CE1006005C0 /* PlistBookmark */;
+			2E7E961E0EB60CE1006005C0 /* PBXTextBookmark */ = 2E7E961E0EB60CE1006005C0 /* PBXTextBookmark */;
+			2E7E961F0EB60CE1006005C0 /* PBXTextBookmark */ = 2E7E961F0EB60CE1006005C0 /* PBXTextBookmark */;
+			2E7E96310EB6118B006005C0 /* PBXTextBookmark */ = 2E7E96310EB6118B006005C0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2E7E95A10EB603BA006005C0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2E7E958C0EB603A2006005C0 /* Proximity */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Proximity;
+		sourceDirectories = (
+		);
+	};
+	2E7E95A10EB603BA006005C0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = Repo;
+		};
+	};
+	2E7E95A20EB603BA006005C0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2E7E95CE0EB603F2006005C0 /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 770}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 892}";
+		};
+	};
+	2E7E95CF0EB603F2006005C0 /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 5170}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 656}";
+		};
+	};
+	2E7E961A0EB60CE1006005C0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/dlt/Desktop/Proximity 2/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2E7E961B0EB60CE1006005C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2E7E95CE0EB603F2006005C0 /* AppController.h */;
+		name = "AppController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 892;
+		vrLoc = 0;
+	};
+	2E7E961D0EB60CE1006005C0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/dlt/Desktop/Proximity 2/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2E7E961E0EB60CE1006005C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2E7E95CE0EB603F2006005C0 /* AppController.h */;
+		name = "AppController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 892;
+		vrLoc = 0;
+	};
+	2E7E961F0EB60CE1006005C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2E7E95CF0EB603F2006005C0 /* AppController.m */;
+		name = "AppController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 656;
+		vrLoc = 0;
+	};
+	2E7E96310EB6118B006005C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2E7E95CF0EB603F2006005C0 /* AppController.m */;
+		name = "AppController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 656;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* Proximity */ = {
+		activeExec = 0;
+		executables = (
+			2E7E958C0EB603A2006005C0 /* Proximity */,
+		);
+	};
+}
